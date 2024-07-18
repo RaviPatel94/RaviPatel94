@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RaviPatel94
-- 👀 I’m interested in Frontend 
-- 🌱 I’m currently learning Frontend 
+- 👋 Hi, I’m Ravi 
+- 👀 I’m a frontene developer 
+- 🌱 I’m a begginer frontend developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ravi942004@gmail.com
 - 
