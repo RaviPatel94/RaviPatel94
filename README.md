@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravi 
 - 👀 I’m a frontend developer 
-- 🌱 I’m a begginer frontend developer
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a  frontend and UI/UX developer
+- 💞️ I’m looking for internship opportunities
 - 📫 How to reach me ravi942004@gmail.com
 - 
 
