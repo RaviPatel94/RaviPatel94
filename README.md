@@ -26,7 +26,7 @@ I am an Enthusiastic web developer passionate about crafting beautiful, function
 
   <br>
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left" width="100%">Languages and Tools:</h1>
 <br>
 
 <p align="center" width="49%">
