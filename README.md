@@ -10,7 +10,7 @@ I am an Enthusiastic web developer passionate about crafting beautiful, function
 
 
 <BR>
-<img align='left' src="./cat on code gif.gif" width="100%">
+<img align='left' src="./cat on code gif.gif" width="75%">
 
 
 .<br>
