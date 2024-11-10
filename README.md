@@ -11,7 +11,7 @@ I am an Enthusiastic web developer passionate about crafting beautiful, function
 
 <BR>
 <div width="100%">
-<img align='left' src="./cat on code gif.gif" width="70%" padding-left="50%">
+<img align='left' src="./cat on code gif.gif" width="75%" padding-left="50%">
 </div>
 
 .<br>
