@@ -29,7 +29,7 @@ I am an Enthusiastic web developer passionate about crafting beautiful, function
 <h1 align="left">Languages and Tools:</h1>
 <br>
 
-<p align="center">
+<p align="center" width="49%">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,firebase,react,tailwind,vite,c,cpp,py&perline=10" />
   </a>
