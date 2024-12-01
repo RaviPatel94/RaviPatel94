@@ -3,6 +3,7 @@
 ##  <img src="image-1.png" width="50px"> 
 ## About me 🧙‍♂️ : 
 - 🧑‍🎓 I’m currently Working on **React**
+- 📑 Here's my  [Portfolio](https://ravip.netlify.app/)
 - 📝 Here's my  [LinkedIn](https://www.linkedin.com/in/ravi-patel94/)
 - 📫 Feel free to reach me out **ravi942004@gmail.com**
 
