@@ -32,7 +32,7 @@ I am an Enthusiastic web developer passionate about crafting beautiful, function
 
 <p align="center" width="49%">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,firebase,react,tailwind,vite,c,cpp,py&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,firebase,react,tailwind,vite,c,cpp,mongodb,py&perline=10" />
   </a>
 </p>
 <div align="center">
