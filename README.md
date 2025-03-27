@@ -47,7 +47,7 @@ I am an Enthusiastic web developer passionate about crafting beautiful, function
 
 [![An image of @ravipatel94's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravipatel94)](https://holopin.io/@ravipatel94)
 
-[![](https://visitcount.itsvg.in/api?id=RaviPatel94&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=RaviPatel94&color=blue)
 
 
 
