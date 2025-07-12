@@ -2,13 +2,10 @@
 
 ##  <img src="image-1.png" width="50px"> 
 ## About me 🧙‍♂️ : 
-- 🧑‍🎓 I’m currently Working on **DSA with Python**
+- 🧑‍🎓 I’m currently Working on **DSA with Java**
 - 📑 Here's my  [Portfolio](https://ravip.netlify.app/)
 - 📝 Here's my  [LinkedIn](https://www.linkedin.com/in/ravi-patel94/)
 - 📫 Feel free to reach me out **ravi942004@gmail.com**
-
-I am an Enthusiastic web developer passionate about crafting beautiful, functional websites. With a strong foundation in front-end technologies and an eye for design, I bring digital visions to life, creating engaging and user-friendly online experiences.
-
 
 <BR>
 <div width="100%">
@@ -32,7 +29,7 @@ I am an Enthusiastic web developer passionate about crafting beautiful, function
 
 <p align="center" width="49%">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,firebase,react,tailwind,vite,c,cpp,mongodb,py&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,nextjs,vercel,html,css,bootstrap,figma,git,firebase,react,tailwind,vite,c,cpp,mongodb,py&perline=10" />
   </a>
 </p>
 <div align="center">
