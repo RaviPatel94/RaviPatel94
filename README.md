@@ -20,6 +20,7 @@
 <br>
     <a href="https://www.linkedin.com/in/ravi-patel94/" target="_blank"><img alt="LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
     <a href="mailto:ravi942004@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://leetcode.com/u/ravipatel94/" target="_blank"><img alt="Leetcode" width="35px" src="[https://cdn-icons-png.flaticon.com/512/5968/5968534.png](https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=512)"></a> &nbsp&nbsp&nbsp
     
 
   <br>
